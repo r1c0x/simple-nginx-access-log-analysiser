@@ -3,6 +3,6 @@ Prerequisites <br />
 jq <br />
 https://stedolan.github.io/jq/download/
 
-Exmaple:
-count.sh access.log
+Exmaple: <br />
+`count.sh access.log`
 
